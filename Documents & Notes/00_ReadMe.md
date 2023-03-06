@@ -1,1 +1,1 @@
-[Alex Calendar](https://calendar.yandex.com/embed/week?&layer_ids=22262716&tz_id=Europe/London&layer_names=Alex_Scott_Availability)
+[Refer to Original ReadMe - work in progress](https://github.com/alexkotsscott/Customised_Insruance_Data_Analysis/blob/master/Documents%20%26%20Notes/01_General_Documentation.pdf)
